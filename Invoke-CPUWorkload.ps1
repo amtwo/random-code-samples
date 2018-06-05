@@ -1,4 +1,4 @@
-<#
+﻿<#
 .SYNOPSIS
     This script will generate CPU load, attempting to push CPU utilization to the requested percent.
 .DESCRIPTION
